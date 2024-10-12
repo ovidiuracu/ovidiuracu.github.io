@@ -1,5 +1,7 @@
 # ovidiuracu.github.io
-Data Analysis Portfolio (SQL/Python)
+Data Analysis Portfolio (SQL/Python/R)
+
+[Seoul Bike Sharing Demand Machine Learning Project (R)](https://github.com/ovidiuracu/ovidiuracu.github.io/blob/d4eccc086fd2874378ffe4fb739d296a60c40c48/SeoulBikeSharingDemand.R)
 
 [Video Game Sales Practice (SQL)](https://github.com/ovidiuracu/ovidiuracu.github.io/blob/43f3eee4eb39eb487c4c63bd728d5b74b31fdc48/Video%20Game%20Sales%20Practice.sql)
 
