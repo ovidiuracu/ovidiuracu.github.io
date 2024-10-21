@@ -1,6 +1,8 @@
 # ovidiuracu.github.io
 Data Analysis Portfolio (SQL/Python/R)
 
+[Pokemon Dataset Practice (SQL)](https://github.com/ovidiuracu/ovidiuracu.github.io/blob/275d03b406a29b92a595dcc7ce1c420b9052cb78/pokemon%20dataset%20practice.sql)
+
 [Dragon Ball Sparking Zero Character Stats Practice (SQL)](https://github.com/ovidiuracu/ovidiuracu.github.io/blob/71982d8672c501f3b08065aeef50393af9f39923/sparking%20zero%20stats%20practice.sql)
 
 [Seoul Bike Sharing Demand Machine Learning Project (R)](https://github.com/ovidiuracu/ovidiuracu.github.io/blob/d4eccc086fd2874378ffe4fb739d296a60c40c48/SeoulBikeSharingDemand.R)
