@@ -1,5 +1,7 @@
 # ovidiuracu.github.io
-Data Analysis Portfolio (SQL/Python/R)
+Data Analysis Portfolio (SQL/Python/R/Tableau/Power BI)
+
+[Forbes Highest Paid Athletes Visualisation (Tableau)](https://public.tableau.com/app/profile/ovidiu.racu/viz/DiversityinProfessionalSport/Story1)
 
 [Pokemon Dataset Practice (SQL)](https://github.com/ovidiuracu/ovidiuracu.github.io/blob/275d03b406a29b92a595dcc7ce1c420b9052cb78/pokemon%20dataset%20practice.sql)
 
